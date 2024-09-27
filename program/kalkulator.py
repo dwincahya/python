@@ -1,0 +1,8 @@
+angka1 = input("Masukkan Angka: ")
+angka2 = input("Masukkan Angka: ")
+print("==============================")
+print("Hasil dari ",angka1 ,"& ",angka2," sebagai berikut: ")
+print("Penjumlahan: ",int(angka1)+int(angka2))
+print("Pengurangan: ",int(angka1)-int(angka2))
+print("Perkalian  : ",int(angka1)*int(angka2))
+print("Pembagian  : ",float(angka1)/float(angka2))
