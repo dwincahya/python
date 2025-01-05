@@ -1,2 +1,2 @@
 # python
-<p>Berbagai Macam Program dengan Python</p>
+<p>Berbagai Macam Program yang dibuat dengan python</p>
