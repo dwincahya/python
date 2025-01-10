@@ -1,2 +1,2 @@
 # python
-<p>Berbagai Macam Program yang dibuat dengan python</p>
+<p>Belajar python kita</p>
